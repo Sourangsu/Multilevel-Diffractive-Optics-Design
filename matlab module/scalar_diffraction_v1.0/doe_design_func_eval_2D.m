@@ -87,9 +87,10 @@ I3 = abs(u3.^2);                                                           %obs 
 [X3,Y3] = meshgrid(x2,x2);
 
 
-%% Normalize
+%% Normalize (if required)
 Ixy = I3;
-normIxy = Ixy./max(Ixy(:));
+%normIxy = Ixy./max(Ixy(:));
+normIxy = Ixy;
 
 
 x = x3;
