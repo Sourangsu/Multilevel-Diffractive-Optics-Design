@@ -18,7 +18,7 @@ publications to cite:
 
 6. S. Banerji, M. Meem, A. Majumder, C. Dvonch, B. Sensale-Rodriguez, and R. Menon, "Single flat lens enabling imaging in the short-wave infra-red (SWIR) band," OSA Continuum 2(10), 2968-2974 (2019).
 
-7. 6. S. Banerji, and  B. Sensale-Rodriguez, "Inverse designed achromatic flat lens operating in the ultraviolet," OSA Continuum 3(7), 1917-1929 (2019).
+7. S. Banerji, and  B. Sensale-Rodriguez, "Inverse designed achromatic flat lens operating in the ultraviolet," OSA Continuum 3(7), 1917-1929 (2019).
 
 Thank You!
 
