@@ -1,4 +1,4 @@
-# Diffractive-Optics-Code
+# Computational-Diffractive-Optics-Code
 This repository hosts some of the rudimentary codes for the project "Computational Design and Fabrication of Diffractive Optical Elements". 
 
 If you plan to use this code for your project or work then please don't forget to cite the following papers as reference to this. It is always a good gesture to give due credit to the creators for their work.
