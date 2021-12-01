@@ -16,13 +16,13 @@ publications to cite:
 
 5. S. Banerji, M. Meem, A. Majumder, B. Sensale-Rodriguez and R. Menon, “Imaging over an unlimited bandwidth with a single diffractive surface,” arXiv: 1907.06251 [physics.optics] (2019).
 
-6. S. Banerji, M. Meem, A. Majumder, F. Vasquez-Guevara, B. Sensale-Rodriguez, and R. Menon, “Ultra-thin near infrared camera enabled by a flat multi-level diffractive lens.” Opt. Lett. 44(22), 5450-5452 (2019).
+6. S. Banerji, M. Meem, A. Majumder, F. Vasquez-Guevara, B. Sensale-Rodriguez, and R. Menon, “Ultra-thin near infrared camera enabled by a flat multi-level diffractive lens.” Optics Letters 44(22), 5450-5452 (2019).
 
 7. S. Banerji, M. Meem, A. Majumder, C. Dvonch, B. Sensale-Rodriguez, and R. Menon, "Single flat lens enabling imaging in the short-wave infra-red (SWIR) band," OSA Continuum 2(10), 2968-2974 (2019).
 
 8. S. Banerji, and  B. Sensale-Rodriguez, "Inverse designed achromatic flat lens operating in the ultraviolet," OSA Continuum 3(7), 1917-1929 (2019).
 
-9. S. Banerji, M. Meem, A. Majumder, B. Sensale-Rodriguez, and R. Menon, “Super-resolution imaging with an achromatic multi-level diffractive microlens array.” Opt. Lett. 45(22), 6158-6161 (2020).
+9. S. Banerji, M. Meem, A. Majumder, B. Sensale-Rodriguez, and R. Menon, “Super-resolution imaging with an achromatic multi-level diffractive microlens array.” Optics Letters 45(22), 6158-6161 (2020).
 
 10. S. Banerji, M. Meem, A. Majumder, B. Sensale-Rodriguez, and R. Menon, “Extreme-depth-of-focus imaging with a flat lens.” Optica 7(3), 214-217 (2020).
 
@@ -34,7 +34,7 @@ publications to cite:
 
 14. A. Majumder, M. Meem, S. Banerji, B. Sensale-Rodriguez, and R. Menon, “Versatile Diffractive Flat Optics.” Optics and Photonics News 31(12), 43-43 (2020).
 
-15. O. Kigner, M. Meem, B. Baker, S. Banerji, P. Hon, B. Sensale-rodriguez, and R. Menon, “Monolithic all-Silicon Flat lens for broadband LWIR Imaging.” arXiv:2103.14939 [physics.optics] (2021).
+15. O. Kigner, M. Meem, B. Baker, S. Banerji, P. Hon, B. Sensale-rodriguez, and R. Menon, “Monolithic all-Silicon Flat lens for broadband LWIR Imaging.” Optics Letters 46(16), 4069-4071 (2021).
 
 
 Thank You!
