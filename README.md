@@ -4,7 +4,7 @@ Rudimentary codes for the project "Computational Design and Fabrication of Diffr
 ## Citation
 If you find our work useful in your research, please cite:
 
-1. S. Banerji and B. Sensale-Rodriguez, “A Computational Design Framework for Efficient, Fabrication Error-Tolerant, Planar THz Diffractive Optical Elements" Scientific Reports 9, 5801 (2019).
+1. S. Banerji and B. Sensale-Rodriguez, “[A Computational Design Framework for Efficient, Fabrication Error-Tolerant, Planar THz Diffractive Optical Elements](https://www.nature.com/articles/s41598-019-42243-5)" Scientific Reports 9, 5801 (2019).
 ```
 @article{banerji2019computational,
   title={A computational design framework for efficient, fabrication error-tolerant, planar THz diffractive optical elements},
@@ -17,7 +17,7 @@ If you find our work useful in your research, please cite:
   publisher={Nature Publishing Group UK London}
 }
 ```
-2. S. Banerji, J. Cooke  and, B. Sensale-Rodriguez, “Impact of fabrication errors and refractive index on multilevel diffractive lens performance" Scientific Reports 10(1), 1-8 (2020).
+2. S. Banerji, J. Cooke  and, B. Sensale-Rodriguez, “[Impact of fabrication errors and refractive index on multilevel diffractive lens performance](https://www.nature.com/articles/s41598-020-71480-2)" Scientific Reports 10(1), 1-8 (2020).
 ```
 @article{banerji2020impact,
   title={Impact of fabrication errors and refractive index on multilevel diffractive lens performance},
